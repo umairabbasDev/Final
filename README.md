@@ -10,8 +10,18 @@ this program will fech your record from your tuf portal for preesents and absent
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
 
+clone the repo or download the zip
+```bash
+git clone https://github.com/umairabbasDev/Final.git
+```
+
+```bash
+cd Final
+```
+
 ```bash
 pip install -r requirements.txt
+git clone https://github.com/umairabbasDev/Final.git
 ```
 	
 ## Contributing
