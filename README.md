@@ -11,7 +11,7 @@ this program will fech your record from your tuf portal for preesents and absent
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
 
 ```bash
-pip install requests bs4
+pip install -r requirements.txt
 ```
 	
 ## Contributing
